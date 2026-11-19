@@ -13,7 +13,10 @@
     "toy": true,
     "minAge": 3,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6046151.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:12.766461+00:00"
   },
   {
     "id": "76398",
@@ -34,7 +37,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/763135888.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:15.594080+00:00"
   },
   {
     "id": "73529",
@@ -57,7 +63,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7536011.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:20.108300+00:00"
   },
   {
     "id": "73530",
@@ -79,7 +88,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7536037_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:23.918562+00:00"
   },
   {
     "id": "74273",
@@ -103,7 +115,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7562744.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:27.633995+00:00"
   },
   {
     "id": "74274",
@@ -125,7 +140,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7562751.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:31.567293+00:00"
   },
   {
     "id": "76399",
@@ -148,7 +166,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7631382.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:35.438503+00:00"
   },
   {
     "id": "76421",
@@ -168,7 +189,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1091017.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:39.042288+00:00"
   },
   {
     "id": "76403",
@@ -189,7 +213,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7631408.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:43.246721+00:00"
   },
   {
     "id": "76404",
@@ -210,7 +237,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7631416.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:47.095288+00:00"
   },
   {
     "id": "76405",
@@ -231,7 +261,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7631424.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:50.775112+00:00"
   },
   {
     "id": "76401",
@@ -252,7 +285,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7631473_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:54.386049+00:00"
   },
   {
     "id": "74277",
@@ -274,7 +310,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7562801.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:32:58.050069+00:00"
   },
   {
     "id": "74278",
@@ -297,7 +336,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7562819.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:01.619745+00:00"
   },
   {
     "id": "76400",
@@ -317,7 +359,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7631465.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:05.627447+00:00"
   },
   {
     "id": "75723",
@@ -340,7 +385,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090076.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:09.325087+00:00"
   },
   {
     "id": "24221",
@@ -361,7 +409,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7549121.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:13.142926+00:00"
   },
   {
     "id": "15710",
@@ -382,7 +433,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6906693.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:16.721550+00:00"
   },
   {
     "id": "13756",
@@ -400,7 +454,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6600163.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:20.201035+00:00"
   },
   {
     "id": "13711",
@@ -418,7 +475,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6586750.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:23.766049+00:00"
   },
   {
     "id": "13710",
@@ -436,7 +496,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6586743.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:26.899818+00:00"
   },
   {
     "id": "19924",
@@ -456,7 +519,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7292466.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:30.560332+00:00"
   },
   {
     "id": "19925",
@@ -476,7 +542,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7292474.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:34.205998+00:00"
   },
   {
     "id": "19926",
@@ -496,7 +565,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7292482.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:38.507607+00:00"
   },
   {
     "id": "73685",
@@ -536,7 +608,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6828335.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:45.192064+00:00"
   },
   {
     "id": "12616",
@@ -556,7 +631,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6384685.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:49.982063+00:00"
   },
   {
     "id": "15811",
@@ -576,7 +654,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6918078.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:33:53.263792+00:00"
   },
   {
     "id": "8890",
@@ -615,7 +696,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7103499.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:09.147774+00:00"
   },
   {
     "id": "13740",
@@ -635,7 +719,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6595777.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:12.695000+00:00"
   },
   {
     "id": "13677",
@@ -654,7 +741,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6576199.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:16.143909+00:00"
   },
   {
     "id": "22477",
@@ -676,7 +766,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7755470.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:19.777622+00:00"
   },
   {
     "id": "21829",
@@ -696,7 +789,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7480434.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:23.227228+00:00"
   },
   {
     "id": "5961",
@@ -716,7 +812,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1063305.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:26.761575+00:00"
   },
   {
     "id": "5963",
@@ -736,7 +835,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1063321.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:30.178991+00:00"
   },
   {
     "id": "7345",
@@ -754,7 +856,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1078626.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:33.679933+00:00"
   },
   {
     "id": "7028",
@@ -775,7 +880,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1075218.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:37.624959+00:00"
   },
   {
     "id": "7189",
@@ -795,7 +903,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1076901.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:41.049813+00:00"
   },
   {
     "id": "11101",
@@ -813,7 +924,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6266080-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:44.731739+00:00"
   },
   {
     "id": "11100",
@@ -831,7 +945,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6266072.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:48.480086+00:00"
   },
   {
     "id": "22273",
@@ -852,7 +969,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7525089.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:51.974210+00:00"
   },
   {
     "id": "76599",
@@ -874,7 +994,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7637157.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:34:56.298895+00:00"
   },
   {
     "id": "76598",
@@ -896,7 +1019,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7637140.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:00.197537+00:00"
   },
   {
     "id": "15858",
@@ -919,7 +1045,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6922161.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:03.641844+00:00"
   },
   {
     "id": "19366",
@@ -938,7 +1067,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7264440-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:07.988806+00:00"
   },
   {
     "id": "76452",
@@ -961,7 +1093,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7606996_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:11.366317+00:00"
   },
   {
     "id": "74305",
@@ -983,7 +1118,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7551358_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:14.993731+00:00"
   },
   {
     "id": "74304",
@@ -1006,7 +1144,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7551432_2.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:18.656879+00:00"
   },
   {
     "id": "74307",
@@ -1029,7 +1170,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7551440.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:22.333023+00:00"
   },
   {
     "id": "76455",
@@ -1049,7 +1193,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607028_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:25.679682+00:00"
   },
   {
     "id": "18357",
@@ -1068,7 +1215,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7118976_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:29.796518+00:00"
   },
   {
     "id": "18847",
@@ -1091,7 +1241,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7242990.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:33.301536+00:00"
   },
   {
     "id": "18359",
@@ -1110,7 +1263,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7118984-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:36.848800+00:00"
   },
   {
     "id": "18358",
@@ -1129,7 +1285,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7118984-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:39.713978+00:00"
   },
   {
     "id": "76569",
@@ -1150,7 +1309,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/76069882.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:42.838457+00:00"
   },
   {
     "id": "76620",
@@ -1173,7 +1335,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607036-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:45.855383+00:00"
   },
   {
     "id": "17811",
@@ -1194,7 +1359,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7092288.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:49.052884+00:00"
   },
   {
     "id": "19352",
@@ -1213,7 +1381,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7263814.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:52.518128+00:00"
   },
   {
     "id": "19354",
@@ -1251,7 +1422,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7263848.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:56.290643+00:00"
   },
   {
     "id": "19639",
@@ -1270,7 +1444,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7276691.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:35:59.171662+00:00"
   },
   {
     "id": "19356",
@@ -1291,7 +1468,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7263855.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:01.668403+00:00"
   },
   {
     "id": "75491",
@@ -1312,7 +1492,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7580969.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:05.989114+00:00"
   },
   {
     "id": "76098",
@@ -1331,7 +1514,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7599670-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:09.284910+00:00"
   },
   {
     "id": "18848",
@@ -1353,7 +1539,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7243006.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:11.900317+00:00"
   },
   {
     "id": "7639",
@@ -1376,7 +1565,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1082040.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:15.423239+00:00"
   },
   {
     "id": "7801",
@@ -1392,7 +1584,10 @@
     "toy": true,
     "minAge": 12,
     "maxAge": 48,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1083733-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:18.268823+00:00"
   },
   {
     "id": "7798",
@@ -1408,7 +1603,10 @@
     "toy": true,
     "minAge": 10,
     "maxAge": 36,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1083642.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:21.271226+00:00"
   },
   {
     "id": "17670",
@@ -1424,7 +1622,10 @@
     "toy": true,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7086439.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:30.589414+00:00"
   },
   {
     "id": "19422",
@@ -1440,7 +1641,10 @@
     "toy": true,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7266965.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:33.479884+00:00"
   },
   {
     "id": "18618",
@@ -1456,7 +1660,10 @@
     "toy": true,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7128777.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:36:36.319075+00:00"
   },
   {
     "id": "9857",
@@ -1490,7 +1697,10 @@
     "toy": true,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7128694.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:01.269847+00:00"
   },
   {
     "id": "18605",
@@ -1506,7 +1716,10 @@
     "toy": true,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7128611.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:04.710918+00:00"
   },
   {
     "id": "75926",
@@ -1527,7 +1740,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/clarins-bundle-sculpt-cryo-ed-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:07.875955+00:00"
   },
   {
     "id": "76023",
@@ -1549,7 +1765,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090571.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:10.803472+00:00"
   },
   {
     "id": "74934",
@@ -1568,7 +1787,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057026164.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:13.334440+00:00"
   },
   {
     "id": "74931",
@@ -1587,7 +1809,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057025907.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:22.533918+00:00"
   },
   {
     "id": "74932",
@@ -1605,7 +1830,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057026034.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:25.516036+00:00"
   },
   {
     "id": "74775",
@@ -1624,7 +1852,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057233753-2.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:30.167983+00:00"
   },
   {
     "id": "74838",
@@ -1642,7 +1873,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1088047.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:33.302909+00:00"
   },
   {
     "id": "76022",
@@ -1667,7 +1901,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090563.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:37.495431+00:00"
   },
   {
     "id": "75918",
@@ -1687,7 +1924,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090472.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:40.022771+00:00"
   },
   {
     "id": "75930",
@@ -1707,7 +1947,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090480.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:37:43.213629+00:00"
   },
   {
     "id": "75929",
@@ -1747,7 +1990,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090464.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:09.891481+00:00"
   },
   {
     "id": "75928",
@@ -1767,7 +2013,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090449.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:12.657319+00:00"
   },
   {
     "id": "75943",
@@ -1787,7 +2036,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/bundle-brushbronze.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:15.762595+00:00"
   },
   {
     "id": "76150",
@@ -1810,7 +2062,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090696-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:19.123280+00:00"
   },
   {
     "id": "76166",
@@ -1832,7 +2087,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090779.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:22.827316+00:00"
   },
   {
     "id": "76460",
@@ -1874,7 +2132,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7630533.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:26.649286+00:00"
   },
   {
     "id": "74715",
@@ -1894,7 +2155,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7588806.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:29.787758+00:00"
   },
   {
     "id": "22313",
@@ -1913,7 +2177,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7528786_2.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:32.817246+00:00"
   },
   {
     "id": "22312",
@@ -1932,7 +2199,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7528778-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:35.465008+00:00"
   },
   {
     "id": "22311",
@@ -1951,7 +2221,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7528760.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:38.498503+00:00"
   },
   {
     "id": "73861",
@@ -1972,7 +2245,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7536763-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:41.371959+00:00"
   },
   {
     "id": "73862",
@@ -1993,7 +2269,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7537720-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:44.290244+00:00"
   },
   {
     "id": "15354",
@@ -2031,7 +2310,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6588806.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:49.561281+00:00"
   },
   {
     "id": "73788",
@@ -2049,7 +2331,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7538660.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:53.494380+00:00"
   },
   {
     "id": "73789",
@@ -2067,7 +2352,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7538678.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:38:56.913613+00:00"
   },
   {
     "id": "10623",
@@ -2087,7 +2375,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6226100.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:00.316829+00:00"
   },
   {
     "id": "73869",
@@ -2143,7 +2434,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6883371.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:20.248628+00:00"
   },
   {
     "id": "75606",
@@ -2165,7 +2459,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7615369.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:24.172584+00:00"
   },
   {
     "id": "74650",
@@ -2186,7 +2483,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7602052.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:28.124188+00:00"
   },
   {
     "id": "9524",
@@ -2211,7 +2511,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6061259.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:31.471622+00:00"
   },
   {
     "id": "76449",
@@ -2232,7 +2535,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7638189.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:35.037150+00:00"
   },
   {
     "id": "76448",
@@ -2253,7 +2559,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7638155.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:38.487740+00:00"
   },
   {
     "id": "76447",
@@ -2276,7 +2585,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7638163.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:42.469292+00:00"
   },
   {
     "id": "75105",
@@ -2298,7 +2610,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7602029.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:46.255811+00:00"
   },
   {
     "id": "76389",
@@ -2319,7 +2634,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617878.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:50.582238+00:00"
   },
   {
     "id": "76388",
@@ -2340,7 +2658,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617860.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:54.362236+00:00"
   },
   {
     "id": "76383",
@@ -2362,7 +2683,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617779_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:39:58.539846+00:00"
   },
   {
     "id": "75391",
@@ -2385,7 +2709,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7602557.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:03.058808+00:00"
   },
   {
     "id": "76385",
@@ -2406,7 +2733,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617837.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:07.591858+00:00"
   },
   {
     "id": "76384",
@@ -2428,7 +2758,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617803_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:11.436065+00:00"
   },
   {
     "id": "75394",
@@ -2451,7 +2784,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7602581.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:15.473229+00:00"
   },
   {
     "id": "76387",
@@ -2472,7 +2808,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617852.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:19.443054+00:00"
   },
   {
     "id": "75393",
@@ -2495,7 +2834,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7602573.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:23.371959+00:00"
   },
   {
     "id": "76386",
@@ -2516,7 +2858,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617845.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:28.520413+00:00"
   },
   {
     "id": "75392",
@@ -2539,7 +2884,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7602565.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:32.415868+00:00"
   },
   {
     "id": "22288",
@@ -2560,7 +2908,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7526707.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:36.976374+00:00"
   },
   {
     "id": "22285",
@@ -2581,7 +2932,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7526673.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:40.682514+00:00"
   },
   {
     "id": "75390",
@@ -2600,7 +2954,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7545145.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:44.444310+00:00"
   },
   {
     "id": "76108",
@@ -2620,7 +2977,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/75957288.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:48.316059+00:00"
   },
   {
     "id": "74163",
@@ -2642,7 +3002,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7577197.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:52.159706+00:00"
   },
   {
     "id": "74164",
@@ -2663,7 +3026,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7577205.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:56.022495+00:00"
   },
   {
     "id": "19987",
@@ -2686,7 +3052,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7296236.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:40:59.765897+00:00"
   },
   {
     "id": "76481",
@@ -2707,7 +3076,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7628651.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:03.495354+00:00"
   },
   {
     "id": "76482",
@@ -2728,7 +3100,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7628669.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:06.925424+00:00"
   },
   {
     "id": "76479",
@@ -2748,7 +3123,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7627844.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:10.266263+00:00"
   },
   {
     "id": "76483",
@@ -2769,7 +3147,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7628677.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:13.810969+00:00"
   },
   {
     "id": "75915",
@@ -2791,7 +3172,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617647.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:18.256422+00:00"
   },
   {
     "id": "74254",
@@ -2815,7 +3199,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7575019.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:21.707691+00:00"
   },
   {
     "id": "44966",
@@ -2836,7 +3223,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7550798.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:26.005650+00:00"
   },
   {
     "id": "76036",
@@ -2854,7 +3244,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7605626.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:29.823111+00:00"
   },
   {
     "id": "74241",
@@ -2872,7 +3265,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7525360.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:33.606841+00:00"
   },
   {
     "id": "74242",
@@ -2890,7 +3286,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7525378.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:37.395471+00:00"
   },
   {
     "id": "74243",
@@ -2908,7 +3307,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7525386.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:40.805721+00:00"
   },
   {
     "id": "74245",
@@ -2926,7 +3328,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7525402.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:44.407233+00:00"
   },
   {
     "id": "73622",
@@ -2947,7 +3352,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7555342.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:48.622375+00:00"
   },
   {
     "id": "75894",
@@ -2966,7 +3374,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617613.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:52.498242+00:00"
   },
   {
     "id": "75895",
@@ -2987,7 +3398,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7617621.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:41:56.490196+00:00"
   },
   {
     "id": "76536",
@@ -3008,7 +3422,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7629626-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:00.359147+00:00"
   },
   {
     "id": "76537",
@@ -3029,7 +3446,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7629659-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:04.739850+00:00"
   },
   {
     "id": "22098",
@@ -3050,7 +3470,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7499863.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:09.608956+00:00"
   },
   {
     "id": "16418",
@@ -3070,7 +3493,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6961870.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:13.523352+00:00"
   },
   {
     "id": "16038",
@@ -3090,7 +3516,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6935023-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:17.426818+00:00"
   },
   {
     "id": "21749",
@@ -3110,7 +3539,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7477604.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:21.417897+00:00"
   },
   {
     "id": "15698",
@@ -3130,7 +3562,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6904581.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:24.847434+00:00"
   },
   {
     "id": "74352",
@@ -3153,7 +3588,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7574913.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:28.633931+00:00"
   },
   {
     "id": "23660",
@@ -3172,7 +3610,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1085241.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:32.441126+00:00"
   },
   {
     "id": "76323",
@@ -3190,7 +3631,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7628065_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:36.499811+00:00"
   },
   {
     "id": "76320",
@@ -3209,7 +3653,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7628032_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:40.481809+00:00"
   },
   {
     "id": "76321",
@@ -3230,7 +3677,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7628040_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:44.476729+00:00"
   },
   {
     "id": "76322",
@@ -3252,7 +3702,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/76280579.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:48.767453+00:00"
   },
   {
     "id": "15025",
@@ -3270,7 +3723,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6822874.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:53.506134+00:00"
   },
   {
     "id": "15026",
@@ -3288,7 +3744,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6822882.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:42:57.344087+00:00"
   },
   {
     "id": "15143",
@@ -3309,7 +3768,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6838300.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:00.830744+00:00"
   },
   {
     "id": "9881",
@@ -3327,7 +3789,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6101048.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:05.047363+00:00"
   },
   {
     "id": "9112",
@@ -3345,7 +3810,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6038240.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:08.489419+00:00"
   },
   {
     "id": "19123",
@@ -3367,7 +3835,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7254243.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:12.515612+00:00"
   },
   {
     "id": "15769",
@@ -3385,7 +3856,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6915900.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:16.334070+00:00"
   },
   {
     "id": "15770",
@@ -3403,7 +3877,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6915918.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:20.111115+00:00"
   },
   {
     "id": "75410",
@@ -3424,7 +3901,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607879.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:24.118094+00:00"
   },
   {
     "id": "76467",
@@ -3445,7 +3925,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7605568.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:27.565239+00:00"
   },
   {
     "id": "74419",
@@ -3468,7 +3951,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7547141.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:31.936056+00:00"
   },
   {
     "id": "74420",
@@ -3491,7 +3977,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7547158_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:35.846178+00:00"
   },
   {
     "id": "74422",
@@ -3513,7 +4002,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7547174.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:39.728270+00:00"
   },
   {
     "id": "76465",
@@ -3535,7 +4027,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7605535.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:43.619049+00:00"
   },
   {
     "id": "76466",
@@ -3557,7 +4052,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7605543.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:47.456091+00:00"
   },
   {
     "id": "75263",
@@ -3579,7 +4077,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7587253.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:52.018891+00:00"
   },
   {
     "id": "76464",
@@ -3601,7 +4102,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7605527.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:43:56.274981+00:00"
   },
   {
     "id": "76462",
@@ -3624,7 +4128,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7605477.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:00.159544+00:00"
   },
   {
     "id": "76463",
@@ -3645,7 +4152,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7605493.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:04.636847+00:00"
   },
   {
     "id": "76319",
@@ -3667,7 +4177,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7628024.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:08.866566+00:00"
   },
   {
     "id": "73655",
@@ -3688,7 +4201,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7539221.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:12.256652+00:00"
   },
   {
     "id": "73662",
@@ -3709,7 +4225,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7539239.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:15.987485+00:00"
   },
   {
     "id": "74136",
@@ -3729,7 +4248,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7560011.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:29.552813+00:00"
   },
   {
     "id": "7900",
@@ -3752,7 +4274,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1084855.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:33.271898+00:00"
   },
   {
     "id": "19964",
@@ -3770,7 +4295,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7295337.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:36.495757+00:00"
   },
   {
     "id": "18221",
@@ -3788,7 +4316,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7111120_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:39.696191+00:00"
   },
   {
     "id": "74122",
@@ -3808,7 +4339,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7563064.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:43.614515+00:00"
   },
   {
     "id": "74121",
@@ -3830,7 +4364,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7563056.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:47.478493+00:00"
   },
   {
     "id": "74147",
@@ -3848,7 +4385,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7563015.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:51.066866+00:00"
   },
   {
     "id": "74148",
@@ -3866,7 +4406,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7563023.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:54.668546+00:00"
   },
   {
     "id": "24213",
@@ -3886,7 +4429,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7548511.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:44:58.393503+00:00"
   },
   {
     "id": "74150",
@@ -3904,7 +4450,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7563072.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:02.096006+00:00"
   },
   {
     "id": "74151",
@@ -3922,7 +4471,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7563080.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:05.873808+00:00"
   },
   {
     "id": "74113",
@@ -3940,7 +4492,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7563098.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:09.791906+00:00"
   },
   {
     "id": "74114",
@@ -3961,7 +4516,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7563106.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:13.694133+00:00"
   },
   {
     "id": "74115",
@@ -3982,7 +4540,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7563114.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:17.397693+00:00"
   },
   {
     "id": "21302",
@@ -4001,7 +4562,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7436535.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:21.300059+00:00"
   },
   {
     "id": "74093",
@@ -4025,7 +4589,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7575183.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:24.628816+00:00"
   },
   {
     "id": "19503",
@@ -4046,7 +4613,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7270793.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:28.302844+00:00"
   },
   {
     "id": "21092",
@@ -4066,7 +4636,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7405100.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:31.809562+00:00"
   },
   {
     "id": "19040",
@@ -4090,7 +4663,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7251579.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:35.514708+00:00"
   },
   {
     "id": "19037",
@@ -4113,7 +4689,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7251546.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:38.680118+00:00"
   },
   {
     "id": "15983",
@@ -4135,7 +4714,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6932178.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:42.104781+00:00"
   },
   {
     "id": "19041",
@@ -4158,7 +4740,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7251645.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:45.353519+00:00"
   },
   {
     "id": "19038",
@@ -4181,7 +4766,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7251553.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:48.559780+00:00"
   },
   {
     "id": "19039",
@@ -4204,7 +4792,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7251561.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:52.116138+00:00"
   },
   {
     "id": "9119",
@@ -4225,7 +4816,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6038430.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:55.851927+00:00"
   },
   {
     "id": "22242",
@@ -4247,7 +4841,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7521203.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:45:59.269751+00:00"
   },
   {
     "id": "76004",
@@ -4268,7 +4865,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/760270.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:03.206795+00:00"
   },
   {
     "id": "74313",
@@ -4290,7 +4890,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7575290.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:07.367492+00:00"
   },
   {
     "id": "19098",
@@ -4308,7 +4911,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7253179.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:10.975087+00:00"
   },
   {
     "id": "76473",
@@ -4330,7 +4936,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607499.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:15.000822+00:00"
   },
   {
     "id": "74448",
@@ -4353,7 +4962,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7548867-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:18.661926+00:00"
   },
   {
     "id": "76474",
@@ -4374,7 +4986,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607507.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:22.646786+00:00"
   },
   {
     "id": "76478",
@@ -4394,7 +5009,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607572.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:25.996469+00:00"
   },
   {
     "id": "74128",
@@ -4416,7 +5034,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7548958.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:29.599989+00:00"
   },
   {
     "id": "75092",
@@ -4436,7 +5057,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7587212.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:33.183756+00:00"
   },
   {
     "id": "75629",
@@ -4459,7 +5083,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7587188.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:36.984820+00:00"
   },
   {
     "id": "75630",
@@ -4481,7 +5108,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7586719.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:40.628973+00:00"
   },
   {
     "id": "75628",
@@ -4504,7 +5134,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7587170.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:44.372434+00:00"
   },
   {
     "id": "75631",
@@ -4527,7 +5160,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7587204-3.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:47.973646+00:00"
   },
   {
     "id": "76476",
@@ -4551,7 +5187,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607531.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:51.770526+00:00"
   },
   {
     "id": "76470",
@@ -4571,7 +5210,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607465.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:55.273588+00:00"
   },
   {
     "id": "76477",
@@ -4593,7 +5235,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607549.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:46:59.012366+00:00"
   },
   {
     "id": "23983",
@@ -4615,7 +5260,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7523936.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:02.841793+00:00"
   },
   {
     "id": "76469",
@@ -4636,7 +5284,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607457.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:07.019842+00:00"
   },
   {
     "id": "76472",
@@ -4657,7 +5308,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607481.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:10.641340+00:00"
   },
   {
     "id": "76075",
@@ -4678,7 +5332,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7587576.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:14.631776+00:00"
   },
   {
     "id": "76468",
@@ -4700,7 +5357,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607432.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:18.297119+00:00"
   },
   {
     "id": "76475",
@@ -4721,7 +5381,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607515.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:21.697014+00:00"
   },
   {
     "id": "76471",
@@ -4742,7 +5405,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7607473.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:25.097630+00:00"
   },
   {
     "id": "74444",
@@ -4766,7 +5432,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7548826.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:28.818869+00:00"
   },
   {
     "id": "74440",
@@ -4787,7 +5456,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7548784-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:32.577498+00:00"
   },
   {
     "id": "23975",
@@ -4809,7 +5481,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7523597.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:36.327958+00:00"
   },
   {
     "id": "23976",
@@ -4830,7 +5505,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7523605.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:39.907033+00:00"
   },
   {
     "id": "23974",
@@ -4850,7 +5528,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7523589.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:43.467575+00:00"
   },
   {
     "id": "75088",
@@ -4871,7 +5552,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7575696.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:47.497850+00:00"
   },
   {
     "id": "18421",
@@ -4891,7 +5575,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7120592.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:50.994816+00:00"
   },
   {
     "id": "18422",
@@ -4911,7 +5598,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7120600.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:54.748882+00:00"
   },
   {
     "id": "19394",
@@ -4932,7 +5622,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7265918.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:47:58.377956+00:00"
   },
   {
     "id": "15320",
@@ -4950,7 +5643,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6862441-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:01.963904+00:00"
   },
   {
     "id": "15300",
@@ -4968,7 +5664,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6861542-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:05.686573+00:00"
   },
   {
     "id": "15321",
@@ -4986,7 +5685,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6862458.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:09.285300+00:00"
   },
   {
     "id": "19862",
@@ -5007,7 +5709,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7290494.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:13.174791+00:00"
   },
   {
     "id": "21134",
@@ -5025,7 +5730,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7407270.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:16.755267+00:00"
   },
   {
     "id": "15799",
@@ -5043,7 +5751,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6917195-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:19.932956+00:00"
   },
   {
     "id": "15815",
@@ -5061,7 +5772,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6918169-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:23.510822+00:00"
   },
   {
     "id": "19975",
@@ -5080,7 +5794,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7295824.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:27.570000+00:00"
   },
   {
     "id": "15414",
@@ -5098,7 +5815,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6874024-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:31.244144+00:00"
   },
   {
     "id": "15958",
@@ -5116,7 +5836,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6930883-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:34.840621+00:00"
   },
   {
     "id": "15959",
@@ -5134,7 +5857,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6930891-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:38.715909+00:00"
   },
   {
     "id": "19978",
@@ -5153,7 +5879,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7295873.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:42.373940+00:00"
   },
   {
     "id": "19976",
@@ -5174,7 +5903,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7295840.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:45.917602+00:00"
   },
   {
     "id": "15306",
@@ -5192,7 +5924,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6861831.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:49.201820+00:00"
   },
   {
     "id": "15324",
@@ -5210,7 +5945,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6862490-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:53.104276+00:00"
   },
   {
     "id": "76553",
@@ -5231,7 +5969,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1091108_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:48:56.818459+00:00"
   },
   {
     "id": "76606",
@@ -5252,7 +5993,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1091116_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:00.727388+00:00"
   },
   {
     "id": "76554",
@@ -5276,7 +6020,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1091124_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:05.022534+00:00"
   },
   {
     "id": "74349",
@@ -5299,7 +6046,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1086587_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:09.336462+00:00"
   },
   {
     "id": "76556",
@@ -5320,7 +6070,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1091140.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:13.104327+00:00"
   },
   {
     "id": "19375",
@@ -5340,7 +6093,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7264762.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:16.805459+00:00"
   },
   {
     "id": "74360",
@@ -5362,7 +6118,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7578849_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:20.550919+00:00"
   },
   {
     "id": "74362",
@@ -5383,7 +6142,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7578864_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:24.233525+00:00"
   },
   {
     "id": "74363",
@@ -5404,7 +6166,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7578815_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:40.260774+00:00"
   },
   {
     "id": "74358",
@@ -5426,7 +6191,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7578823_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:44.185267+00:00"
   },
   {
     "id": "74361",
@@ -5449,7 +6217,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7578856-2.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:48.166761+00:00"
   },
   {
     "id": "76571",
@@ -5472,7 +6243,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7636613.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:51.464179+00:00"
   },
   {
     "id": "76570",
@@ -5495,7 +6269,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7636605.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:55.119304+00:00"
   },
   {
     "id": "76572",
@@ -5517,7 +6294,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7636597-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:49:59.923488+00:00"
   },
   {
     "id": "23830",
@@ -5538,7 +6318,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7299412.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:03.890576+00:00"
   },
   {
     "id": "24152",
@@ -5560,7 +6343,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7541490.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:09.074860+00:00"
   },
   {
     "id": "24277",
@@ -5583,7 +6369,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7290825.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:12.768783+00:00"
   },
   {
     "id": "18129",
@@ -5602,7 +6391,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/297185160.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:16.599012+00:00"
   },
   {
     "id": "75763",
@@ -5622,7 +6414,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7613505.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:20.702058+00:00"
   },
   {
     "id": "74146",
@@ -5645,7 +6440,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7529214.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:24.232724+00:00"
   },
   {
     "id": "11475",
@@ -5667,7 +6465,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6288035.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:27.417347+00:00"
   },
   {
     "id": "24279",
@@ -5685,7 +6486,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7493619.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:31.172703+00:00"
   },
   {
     "id": "9428",
@@ -5703,7 +6507,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6057083.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:34.706383+00:00"
   },
   {
     "id": "74575",
@@ -5725,7 +6532,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7578468.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:38.075825+00:00"
   },
   {
     "id": "13692",
@@ -5743,7 +6553,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6583823.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:41.686866+00:00"
   },
   {
     "id": "13695",
@@ -5761,7 +6574,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6583856.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:45.345048+00:00"
   },
   {
     "id": "13687",
@@ -5781,7 +6597,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6583294.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:49.029635+00:00"
   },
   {
     "id": "13688",
@@ -5799,7 +6618,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6583302.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:52.601848+00:00"
   },
   {
     "id": "13689",
@@ -5817,7 +6639,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6583310.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:50:56.500306+00:00"
   },
   {
     "id": "76500",
@@ -5837,7 +6662,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7619981.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:00.476710+00:00"
   },
   {
     "id": "74343",
@@ -5859,7 +6687,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7576207.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:06.246160+00:00"
   },
   {
     "id": "76498",
@@ -5879,7 +6710,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": true
+    "excluded": true,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/7619957-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:10.127777+00:00"
   },
   {
     "id": "76502",
@@ -5923,7 +6757,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/6570507.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:15.633084+00:00"
   },
   {
     "id": "75867",
@@ -5943,7 +6780,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090290.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:18.829698+00:00"
   },
   {
     "id": "75868",
@@ -5965,7 +6805,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1090407.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:22.764279+00:00"
   },
   {
     "id": "74949",
@@ -5985,7 +6828,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3380814210916.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:26.128660+00:00"
   },
   {
     "id": "74866",
@@ -6005,7 +6851,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057051722.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:29.392966+00:00"
   },
   {
     "id": "74822",
@@ -6027,7 +6876,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057037498-1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:33.195237+00:00"
   },
   {
     "id": "74834",
@@ -6049,7 +6901,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057237126.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:36.788234+00:00"
   },
   {
     "id": "74839",
@@ -6071,7 +6926,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057237140.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:40.925452+00:00"
   },
   {
     "id": "74842",
@@ -6093,7 +6951,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057237171.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:44.269436+00:00"
   },
   {
     "id": "75274",
@@ -6115,7 +6976,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1089706.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:47.538516+00:00"
   },
   {
     "id": "74815",
@@ -6137,7 +7001,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057319334.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:50.907851+00:00"
   },
   {
     "id": "74783",
@@ -6159,7 +7026,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057319181.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:54.727685+00:00"
   },
   {
     "id": "74788",
@@ -6181,7 +7051,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057319204_1.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:51:58.324061+00:00"
   },
   {
     "id": "74791",
@@ -6203,7 +7076,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057319228.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:52:02.439833+00:00"
   },
   {
     "id": "74793",
@@ -6225,7 +7101,10 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/3666057319051.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:52:05.842085+00:00"
   },
   {
     "id": "74807",
@@ -6267,6 +7146,9 @@
     "toy": false,
     "minAge": null,
     "maxAge": null,
-    "excluded": false
+    "excluded": false,
+    "imageUrl": "https://assets.farmaciadaliga.pt/cdn-cgi/image/width%3D600%2Cheight%3D600%2Cbackground%3Dwhite%2Cfit%3Dpad,format=webp/https://assets.farmaciadaliga.pt/images/originals/1085258.webp",
+    "imageSource": "JSON-LD Product.image",
+    "imageCheckedAt": "2026-11-18T17:52:11.455080+00:00"
   }
 ]
